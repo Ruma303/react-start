@@ -38,13 +38,14 @@ export default App; */
         </div>
     );
 }
-export default App;
- */
+export default App; */
+
 
 // % Render MyComponent
 function App() {
     return (
         <div className="App">
+            <h2>Sono in App.js</h2>
             <MyComponent />
         </div>
     )
